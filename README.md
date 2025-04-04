@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-I am on <a rel="me" href="https://mastodon.social/@sgtnasty">mastodon.social</a>
-
 <!--
 **sgtnasty/sgtnasty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+My vps website sgtnasty.io did not have rate limiting, so I made this instead. This is where
+I will store my personal projects info.
+
+- 🔭 I’m currently working on a small project https://codeberg.org/sgtnasty/rtrav
+- 🌱 I’m currently learning Rust
+- 👯 I’m looking to collaborate on open source rust projects
+- 💬 Ask me about Python
+- 📫 How to reach me: I am on <a rel="me" href="https://mastodon.social/@sgtnasty">mastodon.social</a>
