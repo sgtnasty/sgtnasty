@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<a rel="me" href="https://mastodon.social/@sgtnasty">@sgtnasty@mastodon.social</a>
+I am on <a rel="me" href="https://mastodon.social/@sgtnasty">mastodon.social</a>
 
 <!--
 **sgtnasty/sgtnasty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
