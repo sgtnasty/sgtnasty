@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 My vps website sgtnasty.io did not have rate limiting, so I made this instead. This is where
 I will store my personal projects info.
-
-- 🔭 I’m currently working on a small project https://codeberg.org/sgtnasty/rtrav
+https://codeberg.org/sgtnasty/rtrav
+- 🔭 I’m currently working on a small project [https://codeberg.org/sgtnasty/rtrav](https://codeberg.org/sgtnasty/rtrav)
 - 🌱 I’m currently learning Rust
 - 👯 I’m looking to collaborate on open source rust projects
 - 💬 Ask me about Python
