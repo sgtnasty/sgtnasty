@@ -11,3 +11,4 @@ I will store my personal projects info.
 - 🔐 My gpg key: [0x9C1AAB32E3C808E4](https://github.com/sgtnasty.gpg)
 
 ![Keybase PGP](https://img.shields.io/keybase/pgp/sgtnasty)
+![Mastodon Follow](https://img.shields.io/mastodon/follow/574279)
