@@ -22,5 +22,6 @@ I will store my personal projects info.
 - 👯 I’m looking to collaborate on open source rust projects
 - 💬 Ask me about Python
 - 📫 How to reach me: I am on <a rel="me" href="https://mastodon.social/@sgtnasty">mastodon.social</a>
+- 🔐 My gpg key: [0x9C1AAB32E3C808E4](https://github.com/sgtnasty.gpg)
 
-[![pgp](https://img.shields.io/badge/pgp-0xCC4F76F55ADC859376A9A16E9C1AAB32E3C808E4?style=flat&labelColor=545454&color=313131)](https://raw.githubusercontent.com/sgtnasty/sgtnasty/refs/heads/main/RonaldoNascimento_0xE3C808E4_public.asc) 
+![Keybase PGP](https://img.shields.io/keybase/pgp/sgtnasty)
