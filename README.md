@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-My vps website sgtnasty.io did not have rate limiting, so I made this instead. This is where
-I will store my personal projects info.
+This is where I will store my personal projects info.
 
 - 🔭 I’m currently working on a small project [rtrav](https://sgtnasty.github.io/sgtnasty/traveller.html)
 - 🌱 I’m currently learning [Rust](https://rust-lang.org)
